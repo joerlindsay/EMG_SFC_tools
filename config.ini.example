@@ -1,0 +1,7 @@
+[salesforce]
+username = your_salesforce_username@company.com
+password = your_salesforce_password
+security_token = your_security_token
+domain = login
+consumer_key = your_connected_app_consumer_key
+consumer_secret = your_connected_app_consumer_secret
